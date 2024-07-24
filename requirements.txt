@@ -7,3 +7,8 @@ pywin32
 pywinauto
 pyperclip
 winshell
+ctypes
+time
+random
+warnings
+subprocess
