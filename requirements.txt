@@ -12,3 +12,4 @@ time
 random
 warnings
 subprocess
+pyarmor
