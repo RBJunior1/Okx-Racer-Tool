@@ -5,11 +5,12 @@ mss
 pygetwindow
 pywin32
 pywinauto
-pyperclip
-winshell
 ctypes
 time
 random
 warnings
 subprocess
+pyperclip
+winreg
+winshell
 pyarmor
