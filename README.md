@@ -18,9 +18,12 @@ This is a free version of the Auto Clicker OKX Racer script (v1.1).
 
 ## Installation
 
-1. Clone or download this repository to your local machine.
-2. Open a command prompt or terminal in the project directory.
-3. Install the required packages: pip install -r requirements.txt
+1. Install: https://www.python.org/downloads/
+2. Install: https://git-scm.com/download/win
+3. Open cmd type: git clone https://github.com/RBJunior1/Okx-Racer-Tool
+4. cd Okx-Racer-Tool
+5. pip install -r requirements.txt
+6. Run: start.bat
 
 ## Usage
 
