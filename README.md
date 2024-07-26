@@ -16,7 +16,9 @@ This is a free version of the Auto Clicker OKX Racer script (v1.1).
   - pyperclip
   - winshell
 
-## Installation
+## Installation 
+Video Install Tool: https://www.youtube.com/watch?v=ASngA9H3mhg
+
 
 1. Install: https://www.python.org/downloads/
 2. Install: https://git-scm.com/download/win
@@ -24,7 +26,7 @@ This is a free version of the Auto Clicker OKX Racer script (v1.1).
 4. cd Okx-Racer-Tool
 5. pip install -r requirements.txt
 6. Run: start.bat
-Video Install Tool: https://www.youtube.com/watch?v=ASngA9H3mhg
+
 ## Usage
 
 1. Make sure you have the OKX or Telegram application open on your computer.
